@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * Author: Dag-Erling Smørgrav <des@linpro.no>
+ * Author: Dag-Erling Smørgrav <des@des.no>
  *
  * $Id: sntp.h 136667 2008-02-12 15:27:53Z des $
  */

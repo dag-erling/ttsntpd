@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * Author: Dag-Erling Smørgrav <des@linpro.no>
+ * Author: Dag-Erling Smørgrav <des@des.no>
  *
  * $Id: zutil.c 136662 2008-02-12 15:16:24Z des $
  */
