@@ -136,7 +136,7 @@ rtc_open(const char *path)
 	struct rtc *rtc;
 	int serrno;
 
-	rtc = zalloc(sizeof *rtc, 0);
+	rtc = zalloc(sizeof *rtc);
 	rtc->fd = -1;
 	if ((rtc->fd = open(path, O_RDWR)) < 0) {
 		serrno = errno;

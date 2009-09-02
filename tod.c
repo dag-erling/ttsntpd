@@ -127,7 +127,7 @@ tod_open(long long low_water, long long high_water)
 {
 	struct tod *tod;
 
-	tod = zalloc(sizeof *tod, 0);
+	tod = zalloc(sizeof *tod);
 	tod->low_water = low_water ? low_water : DEFAULT_LOW_WATER;
 	tod->high_water = high_water ? high_water : DEFAULT_HIGH_WATER;
 	return (tod);

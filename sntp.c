@@ -178,7 +178,7 @@ sntp_create(const char *dstaddr, const char *dstport,
 
 	zassert(dstaddr != NULL);
 
-	sntp = zalloc(sizeof *sntp, 0);
+	sntp = zalloc(sizeof *sntp);
 	sntp->sd = -1;
 
 	sntp->srcaddr = srcaddr ? zstrdup(srcaddr) : NULL;

@@ -39,7 +39,10 @@ extern void *Zmemdup(const void *, size_t);
 extern void  Zassert(const char *, int, const char *, const char *);
 extern void  Zunreach(const char *, int, const char *);
 
-#define zalloc(l, a)							\
+#define zalloc(l)							\
+	Zalloc(l, 0)
+
+#define zalloca(l, a)							\
 	Zalloc(l, a)
 
 #define zrealloc(p, l)							\
