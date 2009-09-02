@@ -1,4 +1,4 @@
-# $Id: Makefile.am 136662 2008-02-12 15:16:24Z des $
+# $Id$
 
 bin_PROGRAMS = rtcd
 rtcd_SOURCES = rtcd.c rtc.c sntp.c tod.c zutil.c

@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: zutil.c 136662 2008-02-12 15:16:24Z des $
+ * $Id$
  */
 
 #ifdef HAVE_CONFIG_H

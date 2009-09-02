@@ -1,5 +1,5 @@
 AC_PREREQ(2.59)
-AC_REVISION([$Id: configure.ac 138397 2008-02-29 11:55:45Z des $])
+AC_REVISION([$Id$])
 AC_INIT([rtcd], [1.0], [des@des.no])
 AC_COPYRIGHT([2007 TANDBERG Telecom AS])
 AC_CONFIG_SRCDIR(rtcd.c)

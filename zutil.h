@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: zutil.h 136661 2008-02-12 15:15:56Z des $
+ * $Id$
  */
 
 #ifndef ZMEM_H_INCLUDED

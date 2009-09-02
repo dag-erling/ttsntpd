@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: sntp.c 138420 2008-02-29 13:23:39Z des $
+ * $Id$
  */
 
 #ifdef HAVE_CONFIG_H

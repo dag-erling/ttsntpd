@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: sntp.h 136667 2008-02-12 15:27:53Z des $
+ * $Id$
  */
 
 #ifndef SNTP_H_INCLUDED

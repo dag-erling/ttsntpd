@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: tod.c 138397 2008-02-29 11:55:45Z des $
+ * $Id$
  */
 
 #ifdef HAVE_CONFIG_H

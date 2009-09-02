@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: tod.h 138397 2008-02-29 11:55:45Z des $
+ * $Id$
  */
 
 #ifndef TOD_H_INCLUDED

@@ -25,7 +25,7 @@
  *
  * Author: Dag-Erling Smørgrav <des@des.no>
  *
- * $Id: rtc.h 135813 2008-02-01 14:41:49Z des $
+ * $Id$
  */
 
 #ifndef RTC_H_INCLUDED
