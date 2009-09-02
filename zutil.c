@@ -1,5 +1,6 @@
 /*-
  * Copyright (c) 2007 TANDBERG Telecom AS
+ * Copyright (c) 2008-2009 Dag-Erling Smørgrav
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
